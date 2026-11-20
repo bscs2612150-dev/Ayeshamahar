@@ -1,0 +1,45 @@
+<div align="center">
+
+# Hi there, I'm Ayesha Mahar 👋
+
+### Computer Science Student at SZABIST | Aspiring Software Developer
+
+[![Email](https://img.shields.io/badge/Email-bscs2612150%40szabist.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bscs2612150@szabist.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayeshamahar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayeshamahar)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Pursuing a **Bachelor of Science in Computer Science (BSCS)** at **SZABIST**.
+- 💻 Passionate about building clean, efficient software and solving real-world problems through code.
+- 🌱 Currently exploring **Data Structures, Object-Oriented Programming, and Web Development**.
+- 🤝 Open to collaborating on academic projects, hackathons, and open-source repositories.
+- 📫 Reach me at: **bscs2612150@szabist.com**
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" alt="Tech Stack" />
+</div>
+
+*(Tip: Remove or add icons in the URL above based on what you know—e.g., `react,nodejs,mysql,figma`)*
+
+---
+
+### 📌 Featured Projects
+- **[Project Name 1](https://github.com/Ayeshamahar/repo-1)** — *Brief 1-sentence description of what it does and the tech stack used.*
+- **[Project Name 2](https://github.com/Ayeshamahar/repo-2)** — *Brief 1-sentence description of what it does and the tech stack used.*
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayeshamahar&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayesha's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshamahar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
